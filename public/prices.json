@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": 10.99,
+      "features": [
+        "10 GB storage",
+        "50 GB bandwidth",
+        "5 email accounts",
+        "24/7 support",
+        "1 website"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "price": 15.99,
+      "features": [
+        "50 GB storage",
+        "100 GB bandwidth",
+        "10 email accounts",
+        "24/7 support",
+        "5 websites",
+        "1 free domain"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": 20.99,
+      "features": [
+        "100 GB storage",
+        "200 GB bandwidth",
+        "20 email accounts",
+        "24/7 support",
+        "10 websites",
+        "3 free domains",
+        "SSL certificate",
+        "Site backup & restore"
+      ]
+    }
+  ]
+  
