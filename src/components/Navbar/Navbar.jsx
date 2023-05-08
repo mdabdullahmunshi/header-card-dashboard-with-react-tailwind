@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import './Navbar.css';
 import { Bars3Icon,XMarkIcon } from '@heroicons/react/24/solid';
 
 const Navbar = () => {
